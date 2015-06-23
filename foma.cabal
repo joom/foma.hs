@@ -3,7 +3,7 @@ version:             0.1.0.0
 synopsis:            Simple Haskell bindings for Foma.
 description:         Foma is a free and open source finite-state toolkit.
                      This package contains some simple Haskell bindings to
-                     to <http://code.google.com/p/foma/ Foma>.
+                     <http://code.google.com/p/foma/ Foma>.
 homepage:            http://github.com/joom/foma.hs
 license:             MIT
 license-file:        LICENSE
